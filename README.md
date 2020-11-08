@@ -9,7 +9,7 @@ El conjunto de datos CPS85 del paquete mosaicData contiene datos de 1985 sobre s
 Estado Civil: casado/Soltero
 Realizo el modelo para predecir la probabilidad de estar casado, dado el sexo, edad, raza y sector de empleo de la persona. 
 
-## Algunas conclusiones
+#### Algunas conclusiones
 
 En estos datos, la probabilidad de matrimonio es muy similar para hombres y mujeres.
 Se estima que la probabilidad de contraer matrimonio es aproximadamente de 0,5 a los 20 años y disminuye a 0,1 a los 60 años, controlando las otras variables.
